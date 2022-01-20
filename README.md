@@ -17,3 +17,7 @@ Download project Zip file or clone this repository
 Open Netbeans and Select File --> Open Project
 import this project and run it 
 
+# Adding MySql Table
+https://drive.google.com/file/d/18n3Tdr6ISWNcSUUeR_7GGRAPQ2pgY56C/view?usp=sharing
+
+download and import this file to your Mysql workbench named  "newdatabase" schema 
